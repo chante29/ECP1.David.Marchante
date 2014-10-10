@@ -7,6 +7,6 @@ public class Prueba4 {
 	}
 	
 public void metodoPrueba2(){
-		
+	int variable1 = 1;
 	}
 }
